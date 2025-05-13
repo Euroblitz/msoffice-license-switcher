@@ -1,5 +1,5 @@
 # msoffice-license-switcher
-![Screenshot](blob:https://github.com/be361ac6-f2de-4e1a-8493-fa2b6087b3eb)
+![Screenshot](https://raw.githubusercontent.com/Euroblitz/msoffice-license-switcher/refs/heads/main/script.png)
 Batch scripts made in .vbs to easily add and remove Microsoft Office license keys. Useful for testing a big number of keys bought by a reseller. I had to test almost 200 Office 2021 keys by hand because we had a few issues with some bought by a reseller, so I did a script to test them easily.
 
 
